@@ -11,7 +11,7 @@ const certificateDetails = {
 const generateCertificate = async (studentName) => {
   try {
     // Load the certificate template
-    const templatePath = 'templates/cert-template.png'; // Path to your template
+    const templatePath = 'templates/TMPLT_Cert.png'; // Path to your template
     const outputPath = `certificates/${studentName.replace(/\s+/g, '_')}.png`; // Save path for the certificate
     const template = await loadImage(templatePath);
 
