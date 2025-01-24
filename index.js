@@ -4,7 +4,7 @@ const fs = require('fs');
 // Certificate details
 const certificateDetails = {
   title: "Hash It Out: Demystifying Decentralized Systems",
-  location: "RGMCET College, Nandyal",
+  location: "RGMCET(Autonomous), Nandyal",
   workshopDate: new Date().toISOString(),
 };
 
