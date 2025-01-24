@@ -5,13 +5,13 @@ const fs = require('fs');
 const certificateDetails = {
   title: "Hash It Out: Demystifying Decentralized Systems",
   location: "RGMCET College, Nandyal",
-  workshopDate: "January 20, 2025",
+  workshopDate: new Date().toISOString(),
 };
 
 const generateCertificate = async (studentName) => {
   try {
     // Load the certificate template
-    const templatePath = 'cert-template.png'; // Path to your template
+    const templatePath = 'templates/cert-template.png'; // Path to your template
     const outputPath = `certificates/${studentName.replace(/\s+/g, '_')}.png`; // Save path for the certificate
     const template = await loadImage(templatePath);
 
