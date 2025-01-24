@@ -5,14 +5,16 @@ const fs = require('fs');
 const certificateDetails = {
   title: "Hash It Out: Demystifying Decentralized Systems",
   location: "RGMCET(Autonomous), Nandyal",
-  workshopDate: new Date().toISOString(),
+  workshopDate: new Date().toISOString() + ' UTC',
 };
 
-const generateCertificate = async (studentName) => {
+const generateCertificate = async (studentDetails) => {
   try {
     // Load the certificate template
+    const studentName  = studentDetails.split(',')[0];
+    const studentAccountNumber = studentDetails.split(',')[1];
     const templatePath = 'templates/TMPLT_Cert.png'; // Path to your template
-    const outputPath = `certificates/${studentName.replace(/\s+/g, '_')}.png`; // Save path for the certificate
+    const outputPath = `certificates/${studentAccountNumber.replace(/\s+/g, '_')}.png`; // Save path for the certificate
     const template = await loadImage(templatePath);
 
     // Create a canvas
@@ -27,15 +29,18 @@ const generateCertificate = async (studentName) => {
     ctx.fillStyle = '#000'; // Black color
     ctx.textAlign = 'center';
     ctx.fillText(studentName, canvas.width / 2, canvas.height / 2);
+    
+    ctx.font = '32px Arial';
+    ctx.fillText(studentAccountNumber, canvas.width / 2, canvas.height /2 + 50);
 
     // Add workshop title
     ctx.font = 'italic 32px Arial';
-    ctx.fillText(certificateDetails.title, canvas.width / 2, canvas.height / 2 + 70);
+    ctx.fillText(certificateDetails.title, canvas.width / 2, canvas.height / 2 + 140);
 
     // Add location and date
     ctx.font = '24px Arial';
-    ctx.fillText(certificateDetails.location, canvas.width / 2, canvas.height / 2 + 120);
-    ctx.fillText(certificateDetails.workshopDate, canvas.width / 2, canvas.height / 2 + 160);
+    ctx.fillText(certificateDetails.location, canvas.width / 2, canvas.height / 2 + 190);
+    ctx.fillText(certificateDetails.workshopDate, canvas.width / 2, canvas.height / 2 + 230);
 
     // Save the certificate as a PNG file
     const buffer = canvas.toBuffer('image/png');
