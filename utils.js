@@ -1,11 +1,14 @@
+require('dotenv').config()
 const { createCanvas, loadImage } = require('canvas');
 const fs = require('fs');
-
+// const WEB3  =  require('@web3-storage/w3up-client');
+const { GEN } = require('./templates/TMPLT_Cert_Metadata');
+let web3Client = '';
 // Certificate details
 const certificateDetails = {
   title: "Hash It Out: Demystifying Decentralized Systems",
   location: "RGMCET(Autonomous), Nandyal",
-  workshopDate: new Date().toISOString() + ' UTC',
+  workshopDate: "2025-01-25",
 };
 
 const generateCertificate = async (studentDetails) => {
@@ -13,6 +16,8 @@ const generateCertificate = async (studentDetails) => {
     // Load the certificate template
     const studentName  = studentDetails.split(',')[0];
     const studentAccountNumber = studentDetails.split(',')[1];
+    console.log('Student Name',studentName)
+    console.log('Student A/C Address',studentAccountNumber) 
     const templatePath = 'templates/TMPLT_Cert.png'; // Path to your template
     const outputPath = `certificates/${studentAccountNumber.replace(/\s+/g, '_')}.png`; // Save path for the certificate
     const template = await loadImage(templatePath);
@@ -52,18 +57,37 @@ const generateCertificate = async (studentDetails) => {
   }
 };
 
-// Get student names from command-line arguments
-const studentNames = process.argv.slice(2);
 
-if (studentNames.length === 0) {
-  console.log('Please provide student names as arguments.');
-  process.exit(1);
+// const uploadArtifacttoWeb3Store = async () => {
+//     try {
+//       //Create Web3 Client , if it doesnt exist 
+//       if(!web3Client) {
+//         web3Client = await WEB3.Client();
+//         console.log(web3Client);
+        
+//         // await web3Client.setCurrentSpace(process.env.WEB3_DID_KEY);
+//         //Register Space
+//         // await web3Client.
+//       }
+
+//     } catch (error) {
+//       console.error('Error while uploading Artifacts to Storacha',error);
+//     }
+// }
+
+const prepareMetadata = async (studentName, studentWalletAddress) => {
+  try {
+    //Import Template file and generate metadatajsons in /metadata directory
+    const generateStudentMetadata = GEN(studentWalletAddress,studentName);
+    //Store this in metadata folder
+    fs.writeFileSync(`./metadata/${studentWalletAddress}.json`,JSON.stringify(generateStudentMetadata,null,2));
+
+  } catch (error) {
+    console.error(error);
+  }
 }
 
-// Ensure the output directory exists
-if (!fs.existsSync('certificates')) {
-  fs.mkdirSync('certificates');
-}
 
-// Generate certificates for all students
-studentNames.forEach(generateCertificate);
+module.exports.generateCertificate = generateCertificate;
+// module.exports.uploadArtifacttoWeb3Store = uploadArtifacttoWeb3Store;
+module.exports.prepareMetadata      = prepareMetadata;
