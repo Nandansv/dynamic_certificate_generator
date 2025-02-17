@@ -33,13 +33,13 @@ const exec = async (studentInfo) => {
             generateCertificate(student);
 
             //Step3 : Upload this to IPFS location and acquire IPFS URL
-            studentStub.imageURI            = `https://ipfs.io/ipfs/bafybeiezymq5a55454vb62kb7rve2yuzpzg42ilsyldgouea3geijiztw4/${studentStub.studentWalletAddress}.png`
+            studentStub.imageURI            = `https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/${studentStub.studentWalletAddress.trim()}.png`
 
             //Step4 : Create Metadata using above information and store in /metadata folder
 
             await prepareMetadata(studentStub.studentName, studentStub.studentWalletAddress);
 
-            studentStub.ipfsURI            = `https://ipfs.io/ipfs/bafybeiezymq5a55454vb62kb7rve2yuzpzg42ilsyldgouea3geijiztw4/${studentStub.studentWalletAddress}.json`
+            studentStub.ipfsURI            = `https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/${studentStub.studentWalletAddress.trim()}.json`
 
             StudentData.push(studentStub);
 

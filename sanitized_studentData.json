@@ -1,0 +1,779 @@
+[
+   {
+      "studentName": "Shaik Abida",
+      "studentWalletAddress": "0x38C933834A8212957115D96c93dF4F94b4138579",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x38C933834A8212957115D96c93dF4F94b4138579.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x38C933834A8212957115D96c93dF4F94b4138579.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/324190420353650502227083030900936418807646487929"
+   },
+   {
+      "studentName": "G.Nithyasri Reddy\t",
+      "studentWalletAddress": "0x9531Dbf904fe8F9b742b650d81aF35510dE46B12",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x9531Dbf904fe8F9b742b650d81aF35510dE46B12.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x9531Dbf904fe8F9b742b650d81aF35510dE46B12.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/851751523695047176538465444768318748119227722514"
+   },
+   {
+      "studentName": "P. Mohith\t",
+      "studentWalletAddress": "0xc9607aBaa27e7e3db6312D7283ad97d2af9FbF49",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xc9607aBaa27e7e3db6312D7283ad97d2af9FbF49.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xc9607aBaa27e7e3db6312D7283ad97d2af9FbF49.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1149658707682046331431339897638749100308189658953"
+   },
+   {
+      "studentName": "Kotha Naga Harshitha\t",
+      "studentWalletAddress": "0xb5FB22D487cD143abF67C555a050fc1473825818",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xb5FB22D487cD143abF67C555a050fc1473825818.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xb5FB22D487cD143abF67C555a050fc1473825818.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1038927850702040217971690616103491440106214152216"
+   },
+   {
+      "studentName": "SAGALA CHARAN\t",
+      "studentWalletAddress": "0xe15be43279aF83ec55E57621BE7a25d33BF6017c",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xe15be43279aF83ec55E57621BE7a25d33BF6017c.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xe15be43279aF83ec55E57621BE7a25d33BF6017c.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1286572170025488882201802201185955211371422810492"
+   },
+   {
+      "studentName": "Shaik Umar khaja\t",
+      "studentWalletAddress": "0x1AEa9029f99CE634b18A32c243a6f7Cadc4b2d3E",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x1AEa9029f99CE634b18A32c243a6f7Cadc4b2d3E.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x1AEa9029f99CE634b18A32c243a6f7Cadc4b2d3E.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/153664692870419649068569909030828504220930092350"
+   },
+   {
+      "studentName": "SHAIK MADHAR \t",
+      "studentWalletAddress": "0x9aefb593ff77bd1fbec97499ef179556fd0951fc",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x9aefb593ff77bd1fbec97499ef179556fd0951fc.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x9aefb593ff77bd1fbec97499ef179556fd0951fc.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/884530274494156549787181378665990096937099547132"
+   },
+   {
+      "studentName": "Dedeepya Sreevatsala \t",
+      "studentWalletAddress": "0xEdB433e449089aab4fD2b3D4BaEBc427BbbC9024",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xEdB433e449089aab4fD2b3D4BaEBc427BbbC9024.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xEdB433e449089aab4fD2b3D4BaEBc427BbbC9024.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1357049467229025976286246104860720978349031985188"
+   },
+   {
+      "studentName": "Godugu Veena\t",
+      "studentWalletAddress": "0xF932232049529bD070D7b1321eEd00605C923755",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xF932232049529bD070D7b1321eEd00605C923755.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xF932232049529bD070D7b1321eEd00605C923755.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1422656799111568498092361234647855850139730196309"
+   },
+   {
+      "studentName": "KURAKULA HARSHITHA\t",
+      "studentWalletAddress": "0x3E9f1D16227FEEc8a3fc0084C0a0BF49c27c41C3",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x3E9f1D16227FEEc8a3fc0084C0a0BF49c27c41C3.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x3E9f1D16227FEEc8a3fc0084C0a0BF49c27c41C3.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/357505780066006529557347991010406706345311748547"
+   },
+   {
+      "studentName": "Pranjal Kumar Dindayal\t",
+      "studentWalletAddress": "0x40e9c7ad04B0e1211B4cd273BFfbF24f205Af98A",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x40e9c7ad04B0e1211B4cd273BFfbF24f205Af98A.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x40e9c7ad04B0e1211B4cd273BFfbF24f205Af98A.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/370588877183968584749716833066848954031093250442"
+   },
+   {
+      "studentName": "Sailaja Cherlopalli\t",
+      "studentWalletAddress": "0xAC68766ed198D3c72e63A905E6033a3e0DfA9ec8",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xAC68766ed198D3c72e63A905E6033a3e0DfA9ec8.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xAC68766ed198D3c72e63A905E6033a3e0DfA9ec8.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/984276007041750067597887958647118346682562682568"
+   },
+   {
+      "studentName": "Abhinay Soleghe\t",
+      "studentWalletAddress": "0x3227379873898c90F40fadF113Fb61ECd2f47b20",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x3227379873898c90F40fadF113Fb61ECd2f47b20.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x3227379873898c90F40fadF113Fb61ECd2f47b20.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/286324110656156104517006905407124864910065171232"
+   },
+   {
+      "studentName": "CHAKALI SHASHANK\t",
+      "studentWalletAddress": "0x67371c30ee32e1c968a578903b4ab6bdfc96c660",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x67371c30ee32e1c968a578903b4ab6bdfc96c660.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x67371c30ee32e1c968a578903b4ab6bdfc96c660.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/589255046174954814099895324881102553365412759136"
+   },
+   {
+      "studentName": "B.S.NAVEEN KUMAR\t",
+      "studentWalletAddress": "0xBE561fcf5D368182497eCFbBd80F27A837D77c8B",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xBE561fcf5D368182497eCFbBd80F27A837D77c8B.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xBE561fcf5D368182497eCFbBd80F27A837D77c8B.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1086628881586818194787981156969537094526382341259"
+   },
+   {
+      "studentName": "PASUPULETI LAKSHMI DEVI \t",
+      "studentWalletAddress": "0x104D4b450f1f370DBF2C1d8c6e141dA9104375fA",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x104D4b450f1f370DBF2C1d8c6e141dA9104375fA.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x104D4b450f1f370DBF2C1d8c6e141dA9104375fA.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/93067566634496987693928628545467595216260396538"
+   },
+   {
+      "studentName": "POLA NANDAKISHORE\t",
+      "studentWalletAddress": "0x2cB9aEfE9E7A638258Ba2994b54B31Dc18B3aAC0",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x2cB9aEfE9E7A638258Ba2994b54B31Dc18B3aAC0.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x2cB9aEfE9E7A638258Ba2994b54B31Dc18B3aAC0.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/255336475958103930385158253445367110853595474624"
+   },
+   {
+      "studentName": "GODUGU PAVANI \t",
+      "studentWalletAddress": "0x41C0B6127e09f2a2ae13F3DdC131cF0561A846c8",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x41C0B6127e09f2a2ae13F3DdC131cF0561A846c8.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x41C0B6127e09f2a2ae13F3DdC131cF0561A846c8.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/375382003910324013032698375230464998107444168392"
+   },
+   {
+      "studentName": "Cipurapu Pragathi\t",
+      "studentWalletAddress": "0x663EE1f7a58a0e7a9091C218f5D5112C539AE6a2",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x663EE1f7a58a0e7a9091C218f5D5112C539AE6a2.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x663EE1f7a58a0e7a9091C218f5D5112C539AE6a2.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/583719389360459255569153111262366243865140848290"
+   },
+   {
+      "studentName": "DURGA SUMANTH DERANGULA\t",
+      "studentWalletAddress": "0x30081C02a0f222047356eb079e370E1B3b6553b0",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x30081C02a0f222047356eb079e370E1B3b6553b0.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x30081C02a0f222047356eb079e370E1B3b6553b0.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/274212402999637070396993220087577633579658990512"
+   },
+   {
+      "studentName": "S.Manjula vani\t",
+      "studentWalletAddress": "0x56d21b3bC4499205a302A65fA6e384AD56624b65",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x56d21b3bC4499205a302A65fA6e384AD56624b65.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x56d21b3bC4499205a302A65fA6e384AD56624b65.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/495658735151832122328710436863324304135535348581"
+   },
+   {
+      "studentName": "D.Venkata Sahithi\t",
+      "studentWalletAddress": "0xF0B99B9146283579f802AAda45094ca3c427F732",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xF0B99B9146283579f802AAda45094ca3c427F732.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xF0B99B9146283579f802AAda45094ca3c427F732.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1374296974697967013681803736534620973811118896946"
+   },
+   {
+      "studentName": "Yaparla Bhargavi \t",
+      "studentWalletAddress": "0x4c8c2A396585CDb4D44B03a2398d1b42aF3867d3",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x4c8c2A396585CDb4D44B03a2398d1b42aF3867d3.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x4c8c2A396585CDb4D44B03a2398d1b42aF3867d3.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/437009081157456914782586655963061008291054774227"
+   },
+   {
+      "studentName": "Kora Sireesha \t",
+      "studentWalletAddress": "0x7201ea3cdf43c75A565825FC4A3bc25595c4d490",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x7201ea3cdf43c75A565825FC4A3bc25595c4d490.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x7201ea3cdf43c75A565825FC4A3bc25595c4d490.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/650867653607736053846069157355317954404264760464"
+   },
+   {
+      "studentName": "Yandapalli Tejaswini \t",
+      "studentWalletAddress": "0x83Bc3195cc2ac87e99e8Daab69d132Ac9Dac600B",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x83Bc3195cc2ac87e99e8Daab69d132Ac9Dac600B.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x83Bc3195cc2ac87e99e8Daab69d132Ac9Dac600B.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/752074650550714716417550521535579545272893333515"
+   },
+   {
+      "studentName": "Mabuchan Minakanti \t",
+      "studentWalletAddress": "0xB809C3f5201dB1334Ef20427E359Fb0b3d235D32",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xB809C3f5201dB1334Ef20427E359Fb0b3d235D32.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xB809C3f5201dB1334Ef20427E359Fb0b3d235D32.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1050672078845999303470775298113442543659611544882"
+   },
+   {
+      "studentName": "Marupalli Mahesh Babu\t  ",
+      "studentWalletAddress": "0xaA38436fc72533D9a4A87a7bdd0C7683b0484b15",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xaA38436fc72533D9a4A87a7bdd0C7683b0484b15.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xaA38436fc72533D9a4A87a7bdd0C7683b0484b15.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/971783147330380127967579546407423724493338069781"
+   },
+   {
+      "studentName": "P.Sai Sudha\t",
+      "studentWalletAddress": "0x17c0e03df5bf31be80369dc8eaae5bc7b0568016",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x17c0e03df5bf31be80369dc8eaae5bc7b0568016.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x17c0e03df5bf31be80369dc8eaae5bc7b0568016.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/135608065042992881771418388066787167979221450774"
+   },
+   {
+      "studentName": "ADEM SUJITHA\t",
+      "studentWalletAddress": "0xDd4eC3e9D40f1BF3882157Bf695C7557d92efEfc",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xDd4eC3e9D40f1BF3882157Bf695C7557d92efEfc.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xDd4eC3e9D40f1BF3882157Bf695C7557d92efEfc.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1263443484940976895766235908941231746201259278076"
+   },
+   {
+      "studentName": "SHAIK REHANA \t",
+      "studentWalletAddress": "0x9225D2CfD30be02aBc05300e4349d43821a9cA0D",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x9225D2CfD30be02aBc05300e4349d43821a9cA0D.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x9225D2CfD30be02aBc05300e4349d43821a9cA0D.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/834356144411650594901918184944131868202646489613"
+   },
+   {
+      "studentName": "GOSETTI SOWMYA\t  ",
+      "studentWalletAddress": "0x5e0A5Ef37d4197a3ab305A053943cc255E67e049",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x5e0A5Ef37d4197a3ab305A053943cc255E67e049.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x5e0A5Ef37d4197a3ab305A053943cc255E67e049.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/536876411319413043140502565306605961197350543433"
+   },
+   {
+      "studentName": "P.Rajitha\t",
+      "studentWalletAddress": "0xF50960065dbbeb6e2456C8529E7c158520Ed5b64",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xF50960065dbbeb6e2456C8529E7c158520Ed5b64.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xF50960065dbbeb6e2456C8529E7c158520Ed5b64.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1398911810504365047767847225829179873921317296996"
+   },
+   {
+      "studentName": "Venkata Subramanyam Kamboji\t",
+      "studentWalletAddress": "0x9d7572b33864650Fd33e01659b02b05B28511303",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x9d7572b33864650Fd33e01659b02b05B28511303.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x9d7572b33864650Fd33e01659b02b05B28511303.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/898930729993668834955243418168702185294185698051"
+   },
+   {
+      "studentName": "Bathula Naga Tharun \t",
+      "studentWalletAddress": "0xE59ee402C65b00F7CaC8d6F7C6A6829613671f4F",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xE59ee402C65b00F7CaC8d6F7C6A6829613671f4F.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xE59ee402C65b00F7CaC8d6F7C6A6829613671f4F.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1310902266805443926495519874156015259136274407247"
+   },
+   {
+      "studentName": "Shaik Mahammad Faseeh\t",
+      "studentWalletAddress": "0x68687375bc5726E68C970E1F8FeEE648DbD8ECb9",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x68687375bc5726E68C970E1F8FeEE648DbD8ECb9.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x68687375bc5726E68C970E1F8FeEE648DbD8ECb9.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/596064375642592959536940811977590329408235302073"
+   },
+   {
+      "studentName": "MARELLA SUMANTH \t",
+      "studentWalletAddress": "0xd71DD3F22E22EeeeDcE8E64a1D8e965e23e95CCF",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xd71DD3F22E22EeeeDcE8E64a1D8e965e23e95CCF.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xd71DD3F22E22EeeeDcE8E64a1D8e965e23e95CCF.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1228098200439873154097833987583667496575564340431"
+   },
+   {
+      "studentName": "K Navadeep \t",
+      "studentWalletAddress": "0x43fC7f69B42C3284669D281ffF2BB5298C6Dde22",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x43fC7f69B42C3284669D281ffF2BB5298C6Dde22.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x43fC7f69B42C3284669D281ffF2BB5298C6Dde22.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/388133268664679350318565911551849121988035337762"
+   },
+   {
+      "studentName": "Dudekula Nagababu \t",
+      "studentWalletAddress": "0x9673fEFa5E6Ea22c21A8180419de4E4b05be04DF",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x9673fEFa5E6Ea22c21A8180419de4E4b05be04DF.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x9673fEFa5E6Ea22c21A8180419de4E4b05be04DF.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/858935413038147221138544381149759119989774615775"
+   },
+   {
+      "studentName": "GADIGAREVULA VENKATESH \t",
+      "studentWalletAddress": "0xc6A187B9541377868D2953041E5214D66941eF67",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xc6A187B9541377868D2953041E5214D66941eF67.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xc6A187B9541377868D2953041E5214D66941eF67.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1133982415822678553684111824281499051397799341927"
+   },
+   {
+      "studentName": "Shaik Mohammad Imthiyaz \t",
+      "studentWalletAddress": "0xC4E669F66Fbd897E4f17beEdDb36878B862ef405",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xC4E669F66Fbd897E4f17beEdDb36878B862ef405.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xC4E669F66Fbd897E4f17beEdDb36878B862ef405.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1124100593125148127784740266848027418650657879045"
+   },
+   {
+      "studentName": "T M Kiran Kumar\t",
+      "studentWalletAddress": "0x008Bd8CaB9d20275f1a725956ef1BF4829ec9e2d",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x008Bd8CaB9d20275f1a725956ef1BF4829ec9e2d.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x008Bd8CaB9d20275f1a725956ef1BF4829ec9e2d.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/3118688820392746329322682428264346166340918829"
+   },
+   {
+      "studentName": "JATANGI SUHAAS \t",
+      "studentWalletAddress": "0xcfd2722e29699cc3ac533bde716124aad9a4ea17",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xcfd2722e29699cc3ac533bde716124aad9a4ea17.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xcfd2722e29699cc3ac533bde716124aad9a4ea17.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1186454192560858029963319930868666008754316438039"
+   },
+   {
+      "studentName": "V. Himavenkata Anil \t",
+      "studentWalletAddress": "0x664C71510C2dFD531c19950d34b1A0efFfb45812",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x664C71510C2dFD531c19950d34b1A0efFfb45812.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x664C71510C2dFD531c19950d34b1A0efFfb45812.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/584021786526491495676740776729487756362083751954"
+   },
+   {
+      "studentName": "Puduru Meghana Reddy \t",
+      "studentWalletAddress": "0x2e51f2830Cd8bF9f7356F5e2433d5493609e6063",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x2e51f2830Cd8bF9f7356F5e2433d5493609e6063.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x2e51f2830Cd8bF9f7356F5e2433d5493609e6063.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/264441061586239309855886763627772858571130036323"
+   },
+   {
+      "studentName": "Palla Pavan Kumar \t",
+      "studentWalletAddress": "0x092C17A420743A6f4BB40F4c0c16Ed58714cF040",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x092C17A420743A6f4BB40F4c0c16Ed58714cF040.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x092C17A420743A6f4BB40F4c0c16Ed58714cF040.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/52364209158173296154126200287812405798837743680"
+   },
+   {
+      "studentName": "N.RAMYASREE\t",
+      "studentWalletAddress": "0x3f2a83Bc67282364610dD060Cbf34D51222F96Fe",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x3f2a83Bc67282364610dD060Cbf34D51222F96Fe.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x3f2a83Bc67282364610dD060Cbf34D51222F96Fe.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/360614525679901111204751256589254483900898449150"
+   },
+   {
+      "studentName": "M.Sree Durga Sai Kumar\t",
+      "studentWalletAddress": "0x66995F54b77450Ba457F62A5F07C0852e9212714",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x66995F54b77450Ba457F62A5F07C0852e9212714.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x66995F54b77450Ba457F62A5F07C0852e9212714.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/585737377134141822409642630267856613263689197332"
+   },
+   {
+      "studentName": "Palaji swapna\t",
+      "studentWalletAddress": "0xD780Ba5721756506457E8876421f84fEdD9666Be",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xD780Ba5721756506457E8876421f84fEdD9666Be.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xD780Ba5721756506457E8876421f84fEdD9666Be.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1230303743646760718613362276321292067642786866878"
+   },
+   {
+      "studentName": "Ediga Swetha \t",
+      "studentWalletAddress": "0x46EC8573844d55168280f5Ea675AcA06777fAB05",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x46EC8573844d55168280f5Ea675AcA06777fAB05.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x46EC8573844d55168280f5Ea675AcA06777fAB05.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/404903955066882741868390717966877620591300422405"
+   },
+   {
+      "studentName": "PATHAN SHABAJ\t",
+      "studentWalletAddress": "0xCb6014749A286C563Aa4a9d375912cD3154Bb3a3",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xCb6014749A286C563Aa4a9d375912cD3154Bb3a3.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xCb6014749A286C563Aa4a9d375912cD3154Bb3a3.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1161067779939682561831937134900800152022593287075"
+   },
+   {
+      "studentName": "G.Kalanvitha \t",
+      "studentWalletAddress": "0xde115E44586e81BFF8a86b1226cE2899211Ae581",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xde115E44586e81BFF8a86b1226cE2899211Ae581.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xde115E44586e81BFF8a86b1226cE2899211Ae581.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1267783275602891778984049572983899904327854777729"
+   },
+   {
+      "studentName": "Maila Akhil \t",
+      "studentWalletAddress": "0x24A4b29250e859D364d604792f2aA48fC5151aa2",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x24A4b29250e859D364d604792f2aA48fC5151aa2.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x24A4b29250e859D364d604792f2aA48fC5151aa2.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/209196545737883343265301399687265082011559467682"
+   },
+   {
+      "studentName": "K.Dinesh\t",
+      "studentWalletAddress": "0x0c9373B74CFF161da03e658f2Ef3BF1C79722D64",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x0c9373B74CFF161da03e658f2Ef3BF1C79722D64.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x0c9373B74CFF161da03e658f2Ef3BF1C79722D64.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/71796179080971186791507667874544505408571190628"
+   },
+   {
+      "studentName": "Vishnu Priya Singam Reddy\t",
+      "studentWalletAddress": "0xa7ab3ed491c94f329454f38d42565658d2bf5e72",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xa7ab3ed491c94f329454f38d42565658d2bf5e72.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xa7ab3ed491c94f329454f38d42565658d2bf5e72.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/957220359451902810853435577816871632226752618098"
+   },
+   {
+      "studentName": "KANNEBOINA YAGNESH \t",
+      "studentWalletAddress": "0xE1b9C191DE78364B53f97FECA7409859ae45e28b",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xE1b9C191DE78364B53f97FECA7409859ae45e28b.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xE1b9C191DE78364B53f97FECA7409859ae45e28b.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1288665423604932883402816652297287084965211005579"
+   },
+   {
+      "studentName": "Gajjala Suguna \t",
+      "studentWalletAddress": "0x8fDaf004FC2fB7137e6b1CC757f99c5847399595",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x8fDaf004FC2fB7137e6b1CC757f99c5847399595.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x8fDaf004FC2fB7137e6b1CC757f99c5847399595.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/821268151326055024068710499798629012380409501077"
+   },
+   {
+      "studentName": "Badimela Pravallika\t",
+      "studentWalletAddress": "0xC6371e822C112E199225ea6D6240B561C109aACd",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xC6371e822C112E199225ea6D6240B561C109aACd.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xC6371e822C112E199225ea6D6240B561C109aACd.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1131609371272900298478254471316354395400070343373"
+   },
+   {
+      "studentName": "arnapalle Manjusree \t",
+      "studentWalletAddress": "0xb1be5Ee74A061a531d1CbCB04088Cd3A2835a981",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xb1be5Ee74A061a531d1CbCB04088Cd3A2835a981.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xb1be5Ee74A061a531d1CbCB04088Cd3A2835a981.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1014736775282039317782960068980101393726238468481"
+   },
+   {
+      "studentName": "BASIREDDY UDAY SHANKAR REDDY \t",
+      "studentWalletAddress": "0xc77356aFBC69ad050BD4B7077a43A084eC41e889",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xc77356aFBC69ad050BD4B7077a43A084eC41e889.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xc77356aFBC69ad050BD4B7077a43A084eC41e889.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1138661300548222993163489032059079401382577563785"
+   },
+   {
+      "studentName": "Gobbarakallu Surendra \t",
+      "studentWalletAddress": "0x9baEbD075B43215602A69C9148c8225b6Dc73c29",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x9baEbD075B43215602A69C9148c8225b6Dc73c29.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x9baEbD075B43215602A69C9148c8225b6Dc73c29.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/888790365867565433455858437890863455673646529577"
+   },
+   {
+      "studentName": "Boreddy Supriya Reddy \t",
+      "studentWalletAddress": "0x31e782672ba047DC11A0BC6fCBfff33D75525F71",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x31e782672ba047DC11A0BC6fCBfff33D75525F71.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x31e782672ba047DC11A0BC6fCBfff33D75525F71.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/284903379615472661124694729295073980461725409137"
+   },
+   {
+      "studentName": "V.YASWANTH RAM\t",
+      "studentWalletAddress": "0xB054457699f9955bcDCD89A60CDd0686b2B205b5",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xB054457699f9955bcDCD89A60CDd0686b2B205b5.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xB054457699f9955bcDCD89A60CDd0686b2B205b5.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1006661689367388711362033568919042164764578022837"
+   },
+   {
+      "studentName": "Bala Anuhya Jonnadula\t",
+      "studentWalletAddress": "0xEa613f816A99f67320eCDf0a260b127952f9364f",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xEa613f816A99f67320eCDf0a260b127952f9364f.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xEa613f816A99f67320eCDf0a260b127952f9364f.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1338072544769172540378633134847105706048481736271"
+   },
+   {
+      "studentName": "Srujana Talari\t",
+      "studentWalletAddress": "0xb6532aae5c7969ff7e8a7382d7a84ef2e9435daa",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xb6532aae5c7969ff7e8a7382d7a84ef2e9435daa.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xb6532aae5c7969ff7e8a7382d7a84ef2e9435daa.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1040891000189477206732278738706184427604151590314"
+   },
+   {
+      "studentName": "Avula Lavanya \t",
+      "studentWalletAddress": "0x3Cd047b2b588B198543245b74eEB14FC5166BA1A",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x3Cd047b2b588B198543245b74eEB14FC5166BA1A.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x3Cd047b2b588B198543245b74eEB14FC5166BA1A.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/347184247034587229637055043253749935646930549274"
+   },
+   {
+      "studentName": "Cheviti Vyshnavi \t",
+      "studentWalletAddress": "0x46a41AC6D03b0f87AB05180921C4045d79f92B00",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x46a41AC6D03b0f87AB05180921C4045d79f92B00.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x46a41AC6D03b0f87AB05180921C4045d79f92B00.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/403289008742356748626550652620746848903303342848"
+   },
+   {
+      "studentName": "B Yaswanth Reddy \t",
+      "studentWalletAddress": "0x1d2c76D539e4eFC763A5dfe539FCcB2cdACAb7Aa",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x1d2c76D539e4eFC763A5dfe539FCcB2cdACAb7Aa.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x1d2c76D539e4eFC763A5dfe539FCcB2cdACAb7Aa.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/166552316949465498226611067970485192030520260522"
+   },
+   {
+      "studentName": "Cipurapu Pragathi\t",
+      "studentWalletAddress": "0xFA673928d6C5fdcAa84b4e43EA0d61a5b6941665",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xFA673928d6C5fdcAa84b4e43EA0d61a5b6941665.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xFA673928d6C5fdcAa84b4e43EA0d61a5b6941665.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1429549648758484143498367974810922359526301898341"
+   },
+   {
+      "studentName": "GYARA VIJAY KUMAR \t",
+      "studentWalletAddress": "0xB44BB88829EbAEc295B97825b2BC456CFaf81dFb",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xB44BB88829EbAEc295B97825b2BC456CFaf81dFb.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xB44BB88829EbAEc295B97825b2BC456CFaf81dFb.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1029306969632916338375404370249632060207680462331"
+   },
+   {
+      "studentName": "MOLLA ARIF\t  ",
+      "studentWalletAddress": "0x9b8e3FCB4EBaD7a1A41A79446d94522b1bB3cB2c",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x9b8e3FCB4EBaD7a1A41A79446d94522b1bB3cB2c.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x9b8e3FCB4EBaD7a1A41A79446d94522b1bB3cB2c.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/888065832551870584999779605705849766597033708332"
+   },
+   {
+      "studentName": "Bandi Jasnavi \t",
+      "studentWalletAddress": "0x3e1DA52f941AF7E176b16D4fDf0b926BCCBC02A1",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x3e1DA52f941AF7E176b16D4fDf0b926BCCBC02A1.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x3e1DA52f941AF7E176b16D4fDf0b926BCCBC02A1.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/354618539119151195011095781595883997608185430689"
+   },
+   {
+      "studentName": "M.Pravalika\t",
+      "studentWalletAddress": "0xafa7dcbbef6331b8eabc46c01d1eca7352e0089c",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xafa7dcbbef6331b8eabc46c01d1eca7352e0089c.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xafa7dcbbef6331b8eabc46c01d1eca7352e0089c.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1002816837996234669145480996052653612403645221020"
+   },
+   {
+      "studentName": "Arla Srujana \t",
+      "studentWalletAddress": "0x043d6Ae4f732156aFeF53a9CCD2Cf5f03B775d88",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x043d6Ae4f732156aFeF53a9CCD2Cf5f03B775d88.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x043d6Ae4f732156aFeF53a9CCD2Cf5f03B775d88.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/24205620355673514878173987404506567283867868552"
+   },
+   {
+      "studentName": "K.Muni prasad\t",
+      "studentWalletAddress": "0x9B48657E8bC5Eb4c271c0e53850843bFbDd8Fd8b",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x9B48657E8bC5Eb4c271c0e53850843bFbDd8Fd8b.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x9B48657E8bC5Eb4c271c0e53850843bFbDd8Fd8b.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/886508064534237017240421287736235104544365280651"
+   },
+   {
+      "studentName": "M. Tejasri\t",
+      "studentWalletAddress": "0xcb2ceb126b44097895cf5753e74ef9eabd07d47a",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xcb2ceb126b44097895cf5753e74ef9eabd07d47a.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xcb2ceb126b44097895cf5753e74ef9eabd07d47a.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1159926836920832002903206305511986308861118633082"
+   },
+   {
+      "studentName": "Yalluru Rani Reddy \t",
+      "studentWalletAddress": "0x23C89b9539E62c39e00e27a860d8E424b900Ca02",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x23C89b9539E62c39e00e27a860d8E424b900Ca02.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x23C89b9539E62c39e00e27a860d8E424b900Ca02.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/204288379201893723083101255661123619364785932802"
+   },
+   {
+      "studentName": "Pullareddygari Bhargavi \t",
+      "studentWalletAddress": "0x9017D386a423c08EEa898fB7930c4a1579d5E1cc",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x9017D386a423c08EEa898fB7930c4a1579d5E1cc.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x9017D386a423c08EEa898fB7930c4a1579d5E1cc.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/822626014646546891884028275747891894138778804684"
+   },
+   {
+      "studentName": "P.Himavanth\t",
+      "studentWalletAddress": "0x47A6a9Ada9c332aD73f52C6328b89B3a269A60Dd",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x47A6a9Ada9c332aD73f52C6328b89B3a269A60Dd.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x47A6a9Ada9c332aD73f52C6328b89B3a269A60Dd.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/409055049502273691503990147187845143919815450845"
+   },
+   {
+      "studentName": "V.Sudharshan reddy \t",
+      "studentWalletAddress": "0x3637C85C4DB10f0DE42b176cdC01009CB57dDC57",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x3637C85C4DB10f0DE42b176cdC01009CB57dDC57.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x3637C85C4DB10f0DE42b176cdC01009CB57dDC57.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/309529496476840524913166228152827312535917943895"
+   },
+   {
+      "studentName": "L Siva Rami Reddy\t",
+      "studentWalletAddress": "0x01bFf4644D05ce89b36Da331C005EE4e4399191e",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x01bFf4644D05ce89b36Da331C005EE4e4399191e.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x01bFf4644D05ce89b36Da331C005EE4e4399191e.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/9989722632127936384192762022693215007864854814"
+   },
+   {
+      "studentName": "A.Vineesha\t",
+      "studentWalletAddress": "0x3Bc1039bdBC9f12D7cb08D425e418b10C644A756",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x3Bc1039bdBC9f12D7cb08D425e418b10C644A756.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x3Bc1039bdBC9f12D7cb08D425e418b10C644A756.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/341134813674697084632307108065250403798288213846"
+   },
+   {
+      "studentName": "POLA NANDAKISHORE\t",
+      "studentWalletAddress": "0xcB2A587E06445Dd7dd537406f0D3bA7Eb16B0A3c",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xcB2A587E06445Dd7dd537406f0D3bA7Eb16B0A3c.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xcB2A587E06445Dd7dd537406f0D3bA7Eb16B0A3c.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1159869466540648284058959026273234137594764921404"
+   },
+   {
+      "studentName": "Machanooru Keerthi \t",
+      "studentWalletAddress": "0x6Ce161ceB366EFd1F22466603dA5Fb9d7e6896e0",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x6Ce161ceB366EFd1F22466603dA5Fb9d7e6896e0.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x6Ce161ceB366EFd1F22466603dA5Fb9d7e6896e0.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/621597191147013314935864380448300662051110950624"
+   },
+   {
+      "studentName": "Kayapati vaishnavi \t",
+      "studentWalletAddress": "0xe2717185139dfD84dd0c5271bE7CCcf5d64e46d9",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xe2717185139dfD84dd0c5271bE7CCcf5d64e46d9.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xe2717185139dfD84dd0c5271bE7CCcf5d64e46d9.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1292761787385562446787232390567593268326475646681"
+   },
+   {
+      "studentName": "L.Parvathi\t",
+      "studentWalletAddress": "0xFB0ACcE1879faF2f062faBEe59768b6B5eae2d3B",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xFB0ACcE1879faF2f062faBEe59768b6B5eae2d3B.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xFB0ACcE1879faF2f062faBEe59768b6B5eae2d3B.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1433197538578906570894194160186393260519651683643"
+   },
+   {
+      "studentName": "Kammuri Surendra Reddy \t",
+      "studentWalletAddress": "0xe2ac78d8b85ffae235a96fb859cd3546c4d3a0c3",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xe2ac78d8b85ffae235a96fb859cd3546c4d3a0c3.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xe2ac78d8b85ffae235a96fb859cd3546c4d3a0c3.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1294078169600714373759898874829849365730817188035"
+   },
+   {
+      "studentName": "KAPATRALLA MUHAMMAD SHOAIB ALI\t",
+      "studentWalletAddress": "0x68D467E665dC20674098D8CeC45916cD504c400e",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x68D467E665dC20674098D8CeC45916cD504c400e.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x68D467E665dC20674098D8CeC45916cD504c400e.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/598471849113558155848257776665326912109097533454"
+   },
+   {
+      "studentName": "EDIGA GIRINAGESH GOUD \t",
+      "studentWalletAddress": "0xc6Cb2aa04c805029Cb1574fbf5AF888eFc780acB",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xc6Cb2aa04c805029Cb1574fbf5AF888eFc780acB.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xc6Cb2aa04c805029Cb1574fbf5AF888eFc780acB.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1134910937161297351157927967330970308434084760267"
+   },
+   {
+      "studentName": "M.Faridha Banu \t",
+      "studentWalletAddress": "0x0A05987990A3C00e736620f777C235Cba339FBfd",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x0A05987990A3C00e736620f777C235Cba339FBfd.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x0A05987990A3C00e736620f777C235Cba339FBfd.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/57214693868118144497604964436173875334136593405"
+   },
+   {
+      "studentName": "G Sujith Yadav\t",
+      "studentWalletAddress": "0x9e89A8bd82BC0a36f21c98b3353Ca4deb093c611",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x9e89A8bd82BC0a36f21c98b3353Ca4deb093c611.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x9e89A8bd82BC0a36f21c98b3353Ca4deb093c611.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/905090443233545222416823720252211526369205798417"
+   },
+   {
+      "studentName": "G SHARATH PREM SAGAR \t",
+      "studentWalletAddress": "0x3b25e44099Cd7D43ACA84741B0004714ce4Ab182",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x3b25e44099Cd7D43ACA84741B0004714ce4Ab182.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x3b25e44099Cd7D43ACA84741B0004714ce4Ab182.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/337675466634654934136303373130582611549724782978"
+   },
+   {
+      "studentName": "Dasari Srivardhan \t",
+      "studentWalletAddress": "0x5d8DB26A3f3C831754C97102ebd2408a185E7d7F",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x5d8DB26A3f3C831754C97102ebd2408a185E7d7F.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x5d8DB26A3f3C831754C97102ebd2408a185E7d7F.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/534096088900492200950127017527066718567065877887"
+   },
+   {
+      "studentName": "Ch.Lakshmi Bhargavi \t",
+      "studentWalletAddress": "0x206da9aF90b724A1248852E4C7E5c2A141A283E5",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x206da9aF90b724A1248852E4C7E5c2A141A283E5.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x206da9aF90b724A1248852E4C7E5c2A141A283E5.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/185133267611099145995728304041038578750318609381"
+   },
+   {
+      "studentName": "Anvitha Dadireddy \t",
+      "studentWalletAddress": "0x75256196FF64215c2E9cfBd510f78466BA7a309E",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x75256196FF64215c2E9cfBd510f78466BA7a309E.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x75256196FF64215c2E9cfBd510f78466BA7a309E.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/668785549032298321510149891597669507200332738718"
+   },
+   {
+      "studentName": "M.Jhansi\t",
+      "studentWalletAddress": "0xa96A436814a095f2CAdF4fD19EE9699F37Dcc124",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xa96A436814a095f2CAdF4fD19EE9699F37Dcc124.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xa96A436814a095f2CAdF4fD19EE9699F37Dcc124.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/967189191200215082090625727281947391458744779044"
+   },
+   {
+      "studentName": "NEELI PRADEEP\t",
+      "studentWalletAddress": "0x0b3B4B1111715B0a55AeBec8b49b550699D6426f",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x0b3B4B1111715B0a55AeBec8b49b550699D6426f.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x0b3B4B1111715B0a55AeBec8b49b550699D6426f.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/64121181675206113197798608389157602192249995887"
+   },
+   {
+      "studentName": "KETHEPALLI SAI SIVA RAMA KRISHNA\t",
+      "studentWalletAddress": "0x62918695Ebe3442883d9979cBc5aB819Aa121318",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x62918695Ebe3442883d9979cBc5aB819Aa121318.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x62918695Ebe3442883d9979cBc5aB819Aa121318.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/562726427656459353633380256865375296774428824344"
+   },
+   {
+      "studentName": "JINKA VENKATA DINESH \t",
+      "studentWalletAddress": "0xEfbC5a06e7f36D11B0912249bc3Ce5298225b66e",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xEfbC5a06e7f36D11B0912249bc3Ce5298225b66e.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xEfbC5a06e7f36D11B0912249bc3Ce5298225b66e.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1368649176779965070737268987182297962167430133358"
+   },
+   {
+      "studentName": "PAPISETTI NAGANANDINI \t",
+      "studentWalletAddress": "0xDf27A12a3D60F7Cf8da24fD3b5269a4153cfA7E4",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xDf27A12a3D60F7Cf8da24fD3b5269a4153cfA7E4.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xDf27A12a3D60F7Cf8da24fD3b5269a4153cfA7E4.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1273988710407939726726171113125775783850916423652"
+   },
+   {
+      "studentName": "G Vishnuvardhan Reddy \t",
+      "studentWalletAddress": "0x251317Ac29d8c75E3947177A257E76a3560a4d02",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x251317Ac29d8c75E3947177A257E76a3560a4d02.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x251317Ac29d8c75E3947177A257E76a3560a4d02.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/211658434846021612736714156916550329396850478338"
+   },
+   {
+      "studentName": "Tejesh Balam\t",
+      "studentWalletAddress": "0xba5D61F4612eD8178f5d70Ae288746D484ceEa93",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xba5D61F4612eD8178f5d70Ae288746D484ceEa93.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xba5D61F4612eD8178f5d70Ae288746D484ceEa93.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1063954785726508753026158277606286099373181823635"
+   },
+   {
+      "studentName": "N.Thanveer Jaha\t",
+      "studentWalletAddress": "0xB7D9F4eB133427D74C44c922b844f1db6d3CCf35",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xB7D9F4eB133427D74C44c922b844f1db6d3CCf35.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xB7D9F4eB133427D74C44c922b844f1db6d3CCf35.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1049605908158493493505289983768827914061157814069"
+   },
+   {
+      "studentName": "Palleti Venkata Sreedhar Reddy\t",
+      "studentWalletAddress": "0x2e6346dbE3523495AAEF15b294b4373380D3C8a7",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x2e6346dbE3523495AAEF15b294b4373380D3C8a7.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x2e6346dbE3523495AAEF15b294b4373380D3C8a7.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/264827521916566318637298267571103941351437486247"
+   },
+   {
+      "studentName": "SIVADA NIKHIL REDDY \t",
+      "studentWalletAddress": "0x94d481964a8404693d5D9dc4fA1ae947e4068FdD",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x94d481964a8404693d5D9dc4fA1ae947e4068FdD.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x94d481964a8404693d5D9dc4fA1ae947e4068FdD.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/849669680690305321246095411368862237984507203549"
+   },
+   {
+      "studentName": "GORLLA VENKATA SAINATH \t",
+      "studentWalletAddress": "0x43c1DcD6AeBB063f07cff2dD45b242bECf08Ffb6",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x43c1DcD6AeBB063f07cff2dD45b242bECf08Ffb6.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x43c1DcD6AeBB063f07cff2dD45b242bECf08Ffb6.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/386825663224101924192401496427466909670363955126"
+   },
+   {
+      "studentName": "MAHAMMAD RAFI\t",
+      "studentWalletAddress": "0xB74a98A9b56D39Ba6911A725CEbc5b0f2b5c1E97",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xB74a98A9b56D39Ba6911A725CEbc5b0f2b5c1E97.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xB74a98A9b56D39Ba6911A725CEbc5b0f2b5c1E97.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1046408865021792934704182557040523051578431381143"
+   },
+   {
+      "studentName": "Koneti Maheswari \t",
+      "studentWalletAddress": "0xC9e336D89459a749a7a262e3Be635801a69Fe46d",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xC9e336D89459a749a7a262e3Be635801a69Fe46d.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xC9e336D89459a749a7a262e3Be635801a69Fe46d.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1152574191857281016594534685099721040368393774189"
+   },
+   {
+      "studentName": "B.Lakshmi Susmitha \t",
+      "studentWalletAddress": "0x031D66282b662f16f75bA4b5c00e0c75B7139c1e",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0x031D66282b662f16f75bA4b5c00e0c75B7139c1e.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0x031D66282b662f16f75bA4b5c00e0c75B7139c1e.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/17782593045375996217646931027593510116786412574"
+   },
+   {
+      "studentName": "JUTURU VAMSI CHARAN\t",
+      "studentWalletAddress": "0xE718d0218F958106F8f4CD64b5D544134aC26De1",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xE718d0218F958106F8f4CD64b5D544134aC26De1.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xE718d0218F958106F8f4CD64b5D544134aC26De1.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1319330216720719452187945620643887202816850292193"
+   },
+   {
+      "studentName": "Katakam Sai Deepika\t  ",
+      "studentWalletAddress": "0xb0F200a80EED3Ef54e2dBa65FA970efd00106728",
+      "imageURI": "https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/0xb0F200a80EED3Ef54e2dBa65FA970efd00106728.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/0xb0F200a80EED3Ef54e2dBa65FA970efd00106728.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xd9067208c7a21e617fe2be5d40a21c3226556b95/1010179213190318853023898759597595006239583004456"
+   },
+   {
+      "studentName": "Badri Mounika \t",
+      "studentWalletAddress": "0xB341630F6E9fA0143c29708E351C515D9d6565fC",
+      "imageURI": "https://ipfs.io/ipfs/bafybeiejnhpllrpyoy5hask2znbvuv54yof2xo57y6dhfayies6ftq5u2m/BM_0xB341630F6E9fA0143c29708E351C515D9d6565fC.png",
+      "ipfsURI": "https://ipfs.io/ipfs/bafybeiftyhs5xm6rpgnumei42gh73uixuyf36aacd2rierizn6tmqd5kdm/0xB341630F6E9fA0143c29708E351C515D9d6565fC.json",
+      "openSeaURL": "https://opensea.io/item/matic/0xD9067208C7a21E617fe2Be5d40A21c3226556B95/200414363935782014417269994328442424794232101718274"
+   }
+]

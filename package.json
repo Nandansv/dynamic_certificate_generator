@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "@web3-storage/w3up-client": "^17.1.2",
-    "canvas": "^3.1.0"
+    "canvas": "^3.1.0",
+    "qrcode": "^1.5.4"
   },
   "devDependencies": {
     "dotenv": "^16.4.7"
