@@ -33,13 +33,13 @@ const exec = async (studentInfo) => {
             generateCertificate(student);
 
             //Step3 : Upload this to IPFS location and acquire IPFS URL
-            studentStub.imageURI            = `https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/${studentStub.studentWalletAddress.trim()}.png`
+            studentStub.imageURI            = `https://ipfs.io/ipfs/bafybeigtfwepg2irkl66j524n5sxad4yqzulv64qk3zthxoaxlmur6ifka/${studentStub.studentWalletAddress.trim()}.png`
 
             //Step4 : Create Metadata using above information and store in /metadata folder
 
             await prepareMetadata(studentStub.studentName, studentStub.studentWalletAddress);
 
-            studentStub.ipfsURI            = `https://ipfs.io/ipfs/bafybeiaxnumjcpirdwmf2md5s722rxilplqxqvmggocjxdyqvyhda7smgq/${studentStub.studentWalletAddress.trim()}.json`
+            studentStub.ipfsURI            = `https://ipfs.io/ipfs/bafybeieqtgn2b7vorl6dun5fwzdtw2lru2gnirmb4x73pzaqzq3zbdwyb4/${studentStub.studentWalletAddress.trim()}.json`
 
             StudentData.push(studentStub);
 
@@ -47,7 +47,7 @@ const exec = async (studentInfo) => {
         // if(!fs.existsSync('./StudentData.json')) {
         //     fs.createWriteStream('./StudentData.json',{})
         // }
-        fs.writeFileSync('./StudentData.json',JSON.stringify(StudentData,null,2))
+        fs.writeFileSync('./LAT_StudentData.json',JSON.stringify(StudentData,null,2))
 
     } catch (error) {
         console.error(error);

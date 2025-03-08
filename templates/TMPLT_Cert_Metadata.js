@@ -1,7 +1,7 @@
 module.exports.GEN = (accountAddr,studentName) => ({
     "name": "Hash It Out 2K25: Demystifying Decentralized Systems By (Broadridge India & RGMCET(Autonomous)",
     "description": "Certificate of Attendance",
-    "image": `https://ipfs.io/ipfs/bafybeids4jdo3ggrcnu6spqokt4mslgodbrink3lxsedlluukg65bq77ku/${accountAddr.trim()}.png`,
+    "image": `https://ipfs.io/ipfs/bafybeigtfwepg2irkl66j524n5sxad4yqzulv64qk3zthxoaxlmur6ifka/${accountAddr.trim()}.png`,
     "attributes": [
         {
             "trait_type": "Issued By",

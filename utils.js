@@ -19,7 +19,7 @@ const generateCertificate = async (studentDetails) => {
     console.log('Student Name',studentName)
     console.log('Student A/C Address',studentAccountNumber) 
     const templatePath = 'templates/TMPLT_Cert.png'; // Path to your template
-    const outputPath = `certificates/${studentAccountNumber.replace(/\s+/g, '_')}.png`; // Save path for the certificate
+    const outputPath = `LAT_certificates/${studentAccountNumber.replace(/\s+/g, '_')}.png`; // Save path for the certificate
     const template = await loadImage(templatePath);
 
     // Create a canvas
@@ -80,7 +80,7 @@ const prepareMetadata = async (studentName, studentWalletAddress) => {
     //Import Template file and generate metadatajsons in /metadata directory
     const generateStudentMetadata = GEN(studentWalletAddress,studentName);
     //Store this in metadata folder
-    fs.writeFileSync(`./metadata/${studentWalletAddress}.json`,JSON.stringify(generateStudentMetadata,null,2));
+    fs.writeFileSync(`./LAT_Metadata/${studentWalletAddress}.json`,JSON.stringify(generateStudentMetadata,null,2));
 
   } catch (error) {
     console.error(error);

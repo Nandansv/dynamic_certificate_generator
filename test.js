@@ -10,7 +10,7 @@ function ethAddressToDecimal(ethAddress) {
 
 // Example usage
 let ethAddress = "0xB341630F6E9fA0143c29708E351C515D9d6565fC ";
-console.log(ethAddressToDecimal(ethAddress));
+// console.log(ethAddressToDecimal(ethAddress));
 
 function decimalToEthAddress(decimal) {
     // Convert decimal string to a hexadecimal string
@@ -36,18 +36,18 @@ function decimalToEthAddress(decimal) {
 // constructJson();
 
 const generateTokenId = () => {
-    const dataset = JSON.parse(require('fs').readFileSync('./uniq_data.json'));
-    console.log(dataset.length);
+    const dataset = JSON.parse(require('fs').readFileSync('./LAT_StudentData_.json'));
+    // console.log(dataset.length);
     return dataset.map(
         e => ({
-            tokenRef : ethAddressToDecimal(e.tokenId),
-            tokenId : e.tokenId,
-            tokenURI : e.tokenURI
+            // tokenRef : ethAddressToDecimal(e.tokenId),
+            tokenId : e.studentWalletAddress,
+            tokenURI : e.ipfsURI
         })
     )
 }
 
-// require('fs').writeFileSync('./data_x.json',JSON.stringify(generateTokenId(),null,3));
+// require('fs').writeFileSync('./Mint_2.json',JSON.stringify(generateTokenId(),null,3));
 //console.log(JSON.parse(require('fs').readFileSync('./transfer_data.json')).length);
 const removeDupes = () => {
     const data = [
@@ -398,3 +398,66 @@ const sanitizeStudentData = () => {
 
 
 // 0x89210Ae4A762662E3D2310d4d48B3c17F7E4B6c9
+
+
+const generateFirstSet = () => {
+
+  //Import IDs 
+  const id_set = JSON.parse(require('fs').readFileSync('./firstSet.json'));
+  const studentsData = JSON.parse(require('fs').readFileSync('./sanitized_studentData.json'));
+  const finalData = []
+  for(let i = 0; i < id_set.ids.length ; i++) {
+    const requiredId = id_set.ids[i];
+    // console.log(requiredId,superSet);
+    for(let j = 0; j < studentsData.length ; j++) {
+      const superSet = studentsData[j];
+      if(requiredId === superSet.studentWalletAddress) {
+        finalData.push(superSet);
+      }
+    }
+  }
+  require('fs').writeFileSync('./firstSanitizedDataset.json',JSON.stringify(finalData,null,4));
+  //console.log(id_set.ids.length);
+  //console.log(studentsData.length);
+}
+
+// generateFirstSet()
+// console.log(JSON.parse(require('fs').readFileSync('./firstSanitizedDataset.json')).length);
+
+
+const prepareTransferStub = () => {
+  const dataset = JSON.parse(require('fs').readFileSync('./firstSanitizedDataset.json'))
+                      .map(e => ({
+                        'receiverAddr' : e.studentWalletAddress,
+                        'tokenRef' : ethAddressToDecimal(e.studentWalletAddress)
+                      }))
+  console.log(dataset.length);
+  require('fs').writeFileSync('./firsTransferSet.json',JSON.stringify(dataset,null,4))
+}
+
+// prepareTransferStub();
+
+
+const prepareSecondSetMeta = () => {
+  const data = JSON.parse(require('fs').readFileSync('./LAT_StudentData.json'));
+  const updatedData = data.map(e => ({...e,openSeaUrl: `https://opensea.io/item/matic/0xD9067208C7a21E617fe2Be5d40A21c3226556B95/${ethAddressToDecimal(`${e.studentWalletAddress}99`)}`,tokenURI : ethAddressToDecimal(`${e.studentWalletAddress}99`)}))
+  require('fs').writeFileSync('./LAT_StudentData_.json',JSON.stringify(updatedData,null,4))
+}
+
+prepareSecondSetMeta();
+
+const generateSecondSet = () => {
+  const data = JSON.parse(require('fs').readFileSync('./LAT_StudentData_.json'));
+  //tokenURI
+   const finalSet = data.map(e => ({
+     'receiverAddr' : e.studentWalletAddress,
+     'tokenRef' : e.tokenURI
+   }))  
+
+   require('fs').writeFileSync('./secondTransferSet.json',JSON.stringify(finalSet,null,4)) ;
+
+  // receiverAddr
+  // tokenRef
+}
+
+// generateSecondSet();
